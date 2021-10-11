@@ -1,8 +1,8 @@
 ## About
 
-I am a PhD Candidate in Economics at New York University. I am going to graduate in May 2022, and I am currently on the job search.
+I am a PhD Candidate in Economics at New York University, expecting to graduate in May 2022. I currently searching for jobs.
 
-- 👨‍🔬 I work on education and migration in the United State in the 19th century
+- 👨‍🔬 I work on education and migration in the United State in the 19th century.
 - 👩‍💻 I mostly use R (data.table, sf, fixest, huxtable and many others) and Python (pandas, scipy, SymPy, beautifulsoup) in my workflow.
 - 🔨 Since you are here,  I highly recommend some less-known free/cheap apps and tools for grad students (and professors!) in Economics. I use a Mac. 
   - [**SlidePilot**](https://github.com/SlidePilot/SlidePilot-macOS), a great app for running beamer (or any pdf) presentations, with instant slide rendering and other nice features like a timer and quick shortcut for "empty white slide"
