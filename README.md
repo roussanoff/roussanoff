@@ -1,4 +1,6 @@
-I am a PhD Candidate in Economics at New York University. I am going to graduate in May 2022, and I am currently on the job search
+## About
+
+I am a PhD Candidate in Economics at New York University. I am going to graduate in May 2022, and I am currently on the job search.
 
 - 👨‍🔬 I work on education and migration in the United State in the 19th century
 - 👩‍💻 I mostly use R (data.table, sf, fixest, huxtable and many others) and Python (pandas, scipy, SymPy, beautifulsoup) in my workflow.
